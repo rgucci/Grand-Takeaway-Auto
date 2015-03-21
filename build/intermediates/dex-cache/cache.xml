@@ -9,6 +9,13 @@
         <dex dex="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/pre-dexed/debug/android-iconify-1.0.6-3f38bf4bad3023ae623ed3a4d56075613face510.jar" />
     </item>
     <item
+        jar="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/libs/anypresence.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7c20287c132fa9df58f411510881a52fced28f9e">
+        <dex dex="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/pre-dexed/debug/anypresence-37e6cbf74813ac11114c594bbe583c5cbba0f1f9.jar" />
+    </item>
+    <item
         jar="/Users/chiyungtung/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
         jumboMode="false"
         revision="20.0.0"
@@ -21,6 +28,13 @@
         revision="20.0.0"
         sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
         <dex dex="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/pre-dexed/debug/library-1.0.15-1f9cd5b13ef36ebf20ea9cdd79a8a14dde0f4817.jar" />
+    </item>
+    <item
+        jar="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-0383f81d167db0f6f58b1c1d0107142d3f2db21c.jar" />
     </item>
     <item
         jar="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
@@ -37,18 +51,11 @@
         <dex dex="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/pre-dexed/debug/classes-2f0aa97853cc2aa703f18a41858f7f476dd49bca.jar" />
     </item>
     <item
-        jar="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/libs/anypresence.jar"
+        jar="/Users/chiyungtung/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.2/89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1/androidannotations-api-3.2.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="7c20287c132fa9df58f411510881a52fced28f9e">
-        <dex dex="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/pre-dexed/debug/anypresence-37e6cbf74813ac11114c594bbe583c5cbba0f1f9.jar" />
-    </item>
-    <item
-        jar="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
-        <dex dex="/Users/chiyungtung/android_2014/mastercard_hackathon/share_gta/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-0383f81d167db0f6f58b1c1d0107142d3f2db21c.jar" />
+        sha1="89b33bb1e996eb2c4089f79d1b8651c71fe8e2d1">
+        <dex dex="/Users/chiyungtung/android_2014/mastercard_hackathon/Grand-Takeaway-Auto/app/build/intermediates/pre-dexed/debug/androidannotations-api-3.2-ed0d5fc94340bb642ccd57c17ad35125195e0a68.jar" />
     </item>
 
 </items>
