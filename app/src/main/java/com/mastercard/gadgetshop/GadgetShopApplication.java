@@ -36,6 +36,7 @@ public class GadgetShopApplication extends Application implements IECommerceMana
     public void onCreate() {
         super.onCreate();
         instance = this;
+        
         APSetup.setupOrm(getApplicationContext());
         APSetup.setup();
         Config.getInstance().setBaseUrl(MPConstants.BACKEND_URL);
