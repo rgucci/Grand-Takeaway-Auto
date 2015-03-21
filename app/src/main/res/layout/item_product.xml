@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:weightSum="2">
 
-    <com.mastercard.gadgetshop.view.RoundedImageView
+    <com.share.gta.view.RoundedImageView
         android:id="@+id/product_image"
         android:layout_width="match_parent"
         android:layout_height="0dp"

@@ -165,7 +165,7 @@
             android:layout_below="@id/cart_checkout_title"
             android:layout_marginBottom="10sp" />
 
-        <com.mastercard.gadgetshop.view.NonSwipeableViewPager
+        <com.share.gta.view.NonSwipeableViewPager
             android:id="@+id/card_information_pager"
             android:layout_width="match_parent"
             android:layout_height="500sp"

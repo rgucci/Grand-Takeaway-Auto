@@ -128,7 +128,7 @@
             android:layout_height="wrap_content"
             android:background="@color/background_color" />
 
-        <com.mastercard.gadgetshop.view.EmptyLoadingView
+        <com.share.gta.view.EmptyLoadingView
             android:id="@+id/empty_loading_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
